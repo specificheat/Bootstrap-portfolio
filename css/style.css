@@ -105,3 +105,9 @@ input[type=submit]:hover {
  .projects{
    justify-content: center;
  }
+ #gif{
+  justify-content: center;
+  max-width: 300px;
+  height: auto;
+  margin: auto;
+ }
